@@ -1,7 +1,7 @@
 .DS_Store
-original_data/**/*.dta
-original_data/**/*.csv
-original_data/**/*.zip
-.ipynb_checkpoints/
+*.dta
+*.csv
 *.zip
 *.docx
+.ipynb_checkpoints/
+

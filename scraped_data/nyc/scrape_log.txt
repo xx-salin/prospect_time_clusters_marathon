@@ -1,0 +1,358 @@
+1999 0:00:00: reported 43, collected 43
+1999 2:30:00: reported 68, collected 68
+1999 2:40:00: reported 173, collected 173
+1999 2:50:00: reported 385, collected 385
+1999 3:00:00: reported 530, collected 529
+1999 3:10:00: reported 859, collected 859
+1999 3:20:00: reported 1348, collected 1347
+1999 3:30:00: reported 1744, collected 1744
+1999 3:40:00: reported 2159, collected 2155
+1999 3:50:00: reported 2733, collected 2726
+1999 4:00:00: reported 2537, collected 2534
+1999 4:10:00: reported 2652, collected 2650
+1999 4:20:00: reported 2659, collected 2658
+1999 4:30:00: reported 2396, collected 2394
+1999 4:40:00: reported 2283, collected 2282
+1999 4:50:00: reported 2066, collected 2066
+1999 5:00:00: reported 1631, collected 1630
+1999 5:10:00: reported 1198, collected 1197
+1999 5:20:00: reported 1024, collected 1024
+1999 5:30:00: reported 602, collected 602
+1999 5:40:00: reported 606, collected 606
+1999 5:50:00: reported 495, collected 495
+1999 6:00:00: reported 293, collected 293
+1999 6:10:00: reported 241, collected 241
+1999 6:20:00: reported 185, collected 185
+1999 6:30:00: reported 156, collected 156
+1999 6:40:00: reported 139, collected 139
+1999 6:50:00: reported 138, collected 138
+1999 7:00:00: reported 477, collected 477
+{'year': 1999, 'event_total': 31791, 'reported': 31820, 'collected': 31791}
+2000 0:00:00: reported 48, collected 48
+2000 2:30:00: reported 75, collected 75
+2000 2:40:00: reported 137, collected 137
+2000 2:50:00: reported 363, collected 363
+2000 3:00:00: reported 528, collected 528
+2000 3:10:00: reported 838, collected 838
+2000 3:20:00: reported 1278, collected 1278
+2000 3:30:00: reported 1612, collected 1611
+2000 3:40:00: reported 2001, collected 1999
+2000 3:50:00: reported 2726, collected 2723
+2000 4:00:00: reported 2395, collected 2391
+2000 4:10:00: reported 2349, collected 2346
+2000 4:20:00: reported 2395, collected 2394
+2000 4:30:00: reported 2201, collected 2195
+2000 4:40:00: reported 2091, collected 2089
+2000 4:50:00: reported 1863, collected 1862
+2000 5:00:00: reported 1445, collected 1444
+2000 5:10:00: reported 999, collected 998
+2000 5:20:00: reported 821, collected 821
+2000 5:30:00: reported 639, collected 638
+2000 5:40:00: reported 541, collected 541
+2000 5:50:00: reported 450, collected 450
+2000 6:00:00: reported 338, collected 338
+2000 6:10:00: reported 239, collected 239
+2000 6:20:00: reported 182, collected 182
+2000 6:30:00: reported 159, collected 159
+2000 6:40:00: reported 129, collected 129
+2000 6:50:00: reported 119, collected 119
+2000 7:00:00: reported 447, collected 447
+{'year': 2000, 'event_total': 29371, 'reported': 29408, 'collected': 29371}
+2001 0:00:00: reported 65, collected 65
+2001 2:30:00: reported 70, collected 70
+2001 2:40:00: reported 166, collected 166
+2001 2:50:00: reported 270, collected 270
+2001 3:00:00: reported 424, collected 424
+2001 3:10:00: reported 603, collected 603
+2001 3:20:00: reported 968, collected 968
+2001 3:30:00: reported 1127, collected 1126
+  request failed; retry in 30s
+2001 3:40:00: reported 1545, collected 1545
+2001 3:50:00: reported 1923, collected 1921
+2001 4:00:00: reported 1772, collected 1771
+2001 4:10:00: reported 1935, collected 1934
+2001 4:20:00: reported 2070, collected 2066
+2001 4:30:00: reported 1894, collected 1892
+2001 4:40:00: reported 1795, collected 1793
+2001 4:50:00: reported 1623, collected 1623
+2001 5:00:00: reported 1153, collected 1152
+2001 5:10:00: reported 908, collected 908
+2001 5:20:00: reported 760, collected 760
+2001 5:30:00: reported 585, collected 585
+2001 5:40:00: reported 436, collected 436
+2001 5:50:00: reported 412, collected 412
+2001 6:00:00: reported 251, collected 251
+2001 6:10:00: reported 203, collected 203
+2001 6:20:00: reported 155, collected 155
+2001 6:30:00: reported 127, collected 127
+2001 6:40:00: reported 114, collected 114
+2001 6:50:00: reported 73, collected 73
+2001 7:00:00: reported 255, collected 255
+{'year': 2001, 'event_total': 23662, 'reported': 23682, 'collected': 23662}
+  request failed; retry in 30s
+  request failed; retry in 60s
+2002 0:00:00: reported 47, collected 47
+2002 2:30:00: reported 53, collected 53
+2002 2:40:00: reported 123, collected 123
+2002 2:50:00: reported 324, collected 324
+2002 3:00:00: reported 468, collected 468
+2002 3:10:00: reported 766, collected 766
+2002 3:20:00: reported 1165, collected 1165
+2002 3:30:00: reported 1518, collected 1518
+2002 3:40:00: reported 2040, collected 2039
+2002 3:50:00: reported 2507, collected 2504
+2002 4:00:00: reported 2440, collected 2439
+2002 4:10:00: reported 2629, collected 2628
+2002 4:20:00: reported 2636, collected 2634
+2002 4:30:00: reported 2515, collected 2511
+2002 4:40:00: reported 2513, collected 2511
+2002 4:50:00: reported 2122, collected 2122
+2002 5:00:00: reported 1655, collected 1655
+2002 5:10:00: reported 1239, collected 1238
+2002 5:20:00: reported 1078, collected 1077
+2002 5:30:00: reported 791, collected 791
+2002 5:40:00: reported 727, collected 726
+2002 5:50:00: reported 625, collected 624
+2002 6:00:00: reported 375, collected 375
+2002 6:10:00: reported 301, collected 301
+2002 6:20:00: reported 234, collected 234
+2002 6:30:00: reported 192, collected 192
+2002 6:40:00: reported 213, collected 213
+2002 6:50:00: reported 149, collected 149
+2002 7:00:00: reported 415, collected 415
+{'year': 2002, 'event_total': 31838, 'reported': 31860, 'collected': 31838}
+2003 0:00:00: reported 49, collected 49
+2003 2:30:00: reported 46, collected 46
+2003 2:40:00: reported 99, collected 99
+2003 2:50:00: reported 226, collected 226
+2003 3:00:00: reported 356, collected 356
+2003 3:10:00: reported 688, collected 688
+2003 3:20:00: reported 983, collected 983
+2003 3:30:00: reported 1294, collected 1294
+2003 3:40:00: reported 1686, collected 1685
+2003 3:50:00: reported 2321, collected 2321
+2003 4:00:00: reported 2358, collected 2358
+2003 4:10:00: reported 2484, collected 2482
+2003 4:20:00: reported 2780, collected 2780
+2003 4:30:00: reported 2641, collected 2639
+2003 4:40:00: reported 2714, collected 2713
+2003 4:50:00: reported 2696, collected 2695
+2003 5:00:00: reported 2193, collected 2193
+2003 5:10:00: reported 1837, collected 1836
+2003 5:20:00: reported 1608, collected 1608
+2003 5:30:00: reported 1211, collected 1211
+2003 5:40:00: reported 1033, collected 1033
+2003 5:50:00: reported 846, collected 846
+2003 6:00:00: reported 572, collected 572
+2003 6:10:00: reported 450, collected 450
+2003 6:20:00: reported 346, collected 346
+2003 6:30:00: reported 290, collected 290
+2003 6:40:00: reported 225, collected 225
+2003 6:50:00: reported 211, collected 211
+2003 7:00:00: reported 502, collected 502
+{'year': 2003, 'event_total': 34735, 'reported': 34745, 'collected': 34734}
+2004 0:00:00: reported 52, collected 52
+2004 2:30:00: reported 47, collected 47
+2004 2:40:00: reported 113, collected 113
+2004 2:50:00: reported 269, collected 269
+2004 3:00:00: reported 404, collected 404
+2004 3:10:00: reported 641, collected 641
+2004 3:20:00: reported 994, collected 994
+2004 3:30:00: reported 1266, collected 1265
+2004 3:40:00: reported 1674, collected 1674
+2004 3:50:00: reported 2299, collected 2298
+2004 4:00:00: reported 2430, collected 2429
+2004 4:10:00: reported 2625, collected 2624
+2004 4:20:00: reported 2718, collected 2718
+2004 4:30:00: reported 2624, collected 2621
+2004 4:40:00: reported 2798, collected 2796
+2004 4:50:00: reported 2770, collected 2768
+2004 5:00:00: reported 2329, collected 2329
+2004 5:10:00: reported 2043, collected 2042
+2004 5:20:00: reported 1685, collected 1685
+2004 5:30:00: reported 1440, collected 1440
+2004 5:40:00: reported 1184, collected 1183
+2004 5:50:00: reported 913, collected 913
+2004 6:00:00: reported 702, collected 702
+2004 6:10:00: reported 605, collected 605
+2004 6:20:00: reported 485, collected 485
+2004 6:30:00: reported 341, collected 341
+2004 6:40:00: reported 238, collected 238
+2004 6:50:00: reported 199, collected 199
+2004 7:00:00: reported 696, collected 696
+{'year': 2004, 'event_total': 36565, 'reported': 36584, 'collected': 36565}
+2005 0:00:00: reported 51, collected 51
+2005 2:30:00: reported 55, collected 55
+2005 2:40:00: reported 163, collected 163
+2005 2:50:00: reported 314, collected 314
+2005 3:00:00: reported 458, collected 458
+2005 3:10:00: reported 732, collected 732
+2005 3:20:00: reported 1015, collected 1015
+2005 3:30:00: reported 1371, collected 1370
+2005 3:40:00: reported 1745, collected 1745
+2005 3:50:00: reported 2374, collected 2371
+2005 4:00:00: reported 2382, collected 2382
+2005 4:10:00: reported 2595, collected 2594
+2005 4:20:00: reported 2742, collected 2736
+2005 4:30:00: reported 2908, collected 2906
+2005 4:40:00: reported 2665, collected 2662
+2005 4:50:00: reported 2873, collected 2871
+2005 5:00:00: reported 2347, collected 2347
+2005 5:10:00: reported 1997, collected 1996
+2005 5:20:00: reported 1705, collected 1705
+2005 5:30:00: reported 1448, collected 1447
+2005 5:40:00: reported 1165, collected 1165
+2005 5:50:00: reported 879, collected 879
+2005 6:00:00: reported 660, collected 658
+2005 6:10:00: reported 468, collected 468
+2005 6:20:00: reported 390, collected 390
+2005 6:30:00: reported 314, collected 314
+2005 6:40:00: reported 244, collected 244
+2005 6:50:00: reported 183, collected 183
+2005 7:00:00: reported 644, collected 644
+{'year': 2005, 'event_total': 36863, 'reported': 36887, 'collected': 36863}
+2006 0:00:00: reported 55, collected 55
+2006 2:30:00: reported 72, collected 72
+2006 2:40:00: reported 245, collected 245
+2006 2:50:00: reported 517, collected 517
+2006 3:00:00: reported 644, collected 643
+  request failed; retry in 30s
+  request failed; retry in 60s
+  request failed; retry in 120s
+2006 3:10:00: reported 1074, collected 1071
+2006 3:20:00: reported 1619, collected 1602
+2006 3:30:00: reported 2030, collected 2014
+2006 3:40:00: reported 2558, collected 2528
+2006 3:50:00: reported 3485, collected 3442
+2006 4:00:00: reported 3013, collected 2980
+2006 4:10:00: reported 3121, collected 3078
+2006 4:20:00: reported 3293, collected 3249
+2006 4:30:00: reported 2982, collected 2946
+2006 4:40:00: reported 2824, collected 2791
+2006 4:50:00: reported 2440, collected 2427
+2006 5:00:00: reported 1629, collected 1623
+2006 5:10:00: reported 1406, collected 1401
+2006 5:20:00: reported 1244, collected 1237
+2006 5:30:00: reported 912, collected 911
+2006 5:40:00: reported 733, collected 731
+2006 5:50:00: reported 546, collected 545
+2006 6:00:00: reported 353, collected 353
+2006 6:10:00: reported 302, collected 302
+2006 6:20:00: reported 279, collected 279
+2006 6:30:00: reported 195, collected 195
+2006 6:40:00: reported 201, collected 201
+2006 6:50:00: reported 140, collected 140
+2006 7:00:00: reported 383, collected 383
+{'year': 2006, 'event_total': 37880, 'reported': 38295, 'collected': 37880}
+2007 0:00:00: reported 31, collected 31
+2007 2:30:00: reported 77, collected 77
+2007 2:40:00: reported 211, collected 211
+2007 2:50:00: reported 483, collected 483
+2007 3:00:00: reported 665, collected 663
+2007 3:10:00: reported 1088, collected 1080
+2007 3:20:00: reported 1563, collected 1555
+2007 3:30:00: reported 2003, collected 1991
+2007 3:40:00: reported 2510, collected 2483
+2007 3:50:00: reported 3443, collected 3399
+2007 4:00:00: reported 2977, collected 2951
+2007 4:10:00: reported 3310, collected 3265
+2007 4:20:00: reported 3281, collected 3239
+2007 4:30:00: reported 2977, collected 2943
+2007 4:40:00: reported 2873, collected 2847
+2007 4:50:00: reported 2626, collected 2596
+2007 5:00:00: reported 1758, collected 1747
+2007 5:10:00: reported 1535, collected 1527
+2007 5:20:00: reported 1264, collected 1262
+2007 5:30:00: reported 919, collected 917
+2007 5:40:00: reported 776, collected 776
+2007 5:50:00: reported 635, collected 634
+2007 6:00:00: reported 408, collected 408
+2007 6:10:00: reported 355, collected 355
+2007 6:20:00: reported 272, collected 272
+2007 6:30:00: reported 238, collected 238
+2007 6:40:00: reported 163, collected 163
+2007 6:50:00: reported 141, collected 141
+2007 7:00:00: reported 410, collected 410
+{'year': 2007, 'event_total': 38604, 'reported': 38992, 'collected': 38604}
+2008 0:00:00: reported 49, collected 49
+2008 2:30:00: reported 87, collected 87
+2008 2:40:00: reported 253, collected 253
+2008 2:50:00: reported 608, collected 608
+2008 3:00:00: reported 763, collected 761
+2008 3:10:00: reported 1140, collected 1136
+2008 3:20:00: reported 1812, collected 1795
+2008 3:30:00: reported 2301, collected 2279
+2008 3:40:00: reported 2741, collected 2714
+2008 3:50:00: reported 3659, collected 3609
+2008 4:00:00: reported 3033, collected 2997
+2008 4:10:00: reported 3064, collected 3021
+2008 4:20:00: reported 3158, collected 3124
+2008 4:30:00: reported 2814, collected 2784
+2008 4:40:00: reported 2590, collected 2566
+2008 4:50:00: reported 2427, collected 2399
+2008 5:00:00: reported 1497, collected 1491
+2008 5:10:00: reported 1262, collected 1257
+2008 5:20:00: reported 1116, collected 1109
+2008 5:30:00: reported 863, collected 863
+2008 5:40:00: reported 697, collected 695
+2008 5:50:00: reported 563, collected 562
+2008 6:00:00: reported 381, collected 381
+2008 6:10:00: reported 395, collected 395
+2008 6:20:00: reported 258, collected 258
+2008 6:30:00: reported 229, collected 229
+2008 6:40:00: reported 189, collected 189
+2008 6:50:00: reported 168, collected 168
+2008 7:00:00: reported 402, collected 402
+Traceback (most recent call last):
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 335, in <module>
+    _, check = scrape_year(nyc_session, target)
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 294, in scrape_year
+    year_df = add_seconds(pd.concat(frames))
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 242, in add_seconds
+    df[GUN_SEC] = df[GUN_TIME].map(sb.time_to_seconds)
+                  ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/core/series.py", line 4675, in map
+    new_values = self._map_values(func, na_action=na_action)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/core/base.py", line 1020, in _map_values
+    return arr.map(mapper, na_action=na_action)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/core/arrays/arrow/array.py", line 1753, in map
+    return super().map(mapper, na_action)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/core/arrays/base.py", line 2745, in map
+    return map_array(self, mapper, na_action=na_action)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/core/algorithms.py", line 1715, in map_array
+    return lib.map_infer(values, mapper)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "pandas/_libs/lib.pyx", line 3071, in pandas._libs.lib.map_infer
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston_pilot.py", line 63, in time_to_seconds
+    match = re.fullmatch(r'\s*(\d+):(\d{2}):(\d{2})\s*', text or '')
+  File "/Users/svsalin/anaconda3/lib/python3.14/re/__init__.py", line 172, in fullmatch
+    return _compile(pattern, flags).fullmatch(string)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: expected string or bytes-like object, got 'float'
+{'year': 1999, 'event_total': 31791, 'reported': 31820, 'collected': 31791}
+{'year': 2000, 'event_total': 29371, 'reported': 29408, 'collected': 29371}
+{'year': 2001, 'event_total': 23662, 'reported': 23682, 'collected': 23662}
+{'year': 2002, 'event_total': 31838, 'reported': 31860, 'collected': 31838}
+{'year': 2003, 'event_total': 34735, 'reported': 34745, 'collected': 34734}
+{'year': 2004, 'event_total': 36565, 'reported': 36584, 'collected': 36565}
+{'year': 2005, 'event_total': 36863, 'reported': 36887, 'collected': 36863}
+{'year': 2006, 'event_total': 37880, 'reported': 38295, 'collected': 37880}
+{'year': 2007, 'event_total': 38604, 'reported': 38992, 'collected': 38604}
+{'year': 2008, 'event_total': 38099, 'reported': 38519, 'collected': 38099}
+2009 0:00:00: reported 60, collected 60
+2009 2:30:00: reported 90, collected 90
+2009 2:40:00: reported 225, collected 225
+2009 2:50:00: reported 637, collected 635
+2009 3:00:00: reported 849, collected 847
+2009 3:10:00: reported 1353, collected 1345
+2009 3:20:00: reported 2078, collected 2058
+2009 3:30:00: reported 2607, collected 2575
+2009 3:40:00: reported 3128, collected 3095
+2009 3:50:00: reported 4413, collected 4308
+2009 4:00:00: reported 3398, collected 3367
+2009 4:10:00: reported 3598, collected 3553
+2009 4:20:00: reported 3794, collected 3731
+2009 4:30:00: reported 3220, collected 3182

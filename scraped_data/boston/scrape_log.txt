@@ -1,0 +1,274 @@
+=== 2004
+2004_100: reported 69, collected 69
+2004_230: reported 32, collected 32
+2004_240: reported 74, collected 74
+2004_250: reported 194, collected 194
+2004_300: reported 312, collected 312
+2004_310: reported 487, collected 487
+2004_320: reported 747, collected 747
+2004_330: reported 892, collected 892
+2004_340: reported 1233, collected 1233
+2004_350: reported 1500, collected 1500
+2004_400: reported 1504, collected 1504
+2004_410: reported 1426, collected 1426
+2004_420: reported 1493, collected 1493
+2004_430: reported 1227, collected 1227
+2004_440: reported 1157, collected 1157
+2004_450: reported 902, collected 902
+2004_500: reported 725, collected 725
+2004_510: reported 669, collected 669
+2004_520: reported 502, collected 502
+2004_530: reported 478, collected 478
+2004_540: reported 405, collected 405
+2004_550: reported 387, collected 387
+2004_600: reported 188, collected 188
+2004_610: reported 171, collected 171
+2004_620: reported 7, collected 7
+2004_630: reported 1, collected 1
+2004_640: reported 1, collected 1
+2004_650: reported 0, collected 0
+2004_700: reported 0, collected 0
+{'year': 2004, 'reported': 16783, 'collected': 16783}
+=== 2005
+2005_100: reported 63, collected 63
+2005_230: reported 64, collected 64
+2005_240: reported 148, collected 148
+2005_250: reported 367, collected 367
+2005_300: reported 605, collected 605
+2005_310: reported 985, collected 985
+2005_320: reported 1158, collected 1158
+2005_330: reported 1499, collected 1499
+2005_340: reported 1609, collected 1609
+2005_350: reported 1734, collected 1734
+2005_400: reported 1648, collected 1648
+2005_410: reported 1446, collected 1446
+2005_420: reported 1247, collected 1247
+2005_430: reported 977, collected 977
+2005_440: reported 869, collected 869
+2005_450: reported 726, collected 726
+2005_500: reported 618, collected 618
+2005_510: reported 532, collected 532
+2005_520: reported 408, collected 408
+2005_530: reported 326, collected 326
+2005_540: reported 284, collected 284
+2005_550: reported 244, collected 244
+2005_600: reported 4, collected 4
+2005_610: reported 0, collected 0
+2005_620: reported 1, collected 1
+2005_630: reported 0, collected 0
+2005_640: reported 1, collected 1
+2005_650: reported 0, collected 0
+2005_700: reported 1, collected 1
+{'year': 2005, 'reported': 17564, 'collected': 17564}
+=== 2006
+2006_100: reported 71, collected 71
+2006_230: reported 94, collected 94
+2006_240: reported 281, collected 281
+2006_250: reported 697, collected 697
+2006_300: reported 1058, collected 1058
+2006_310: reported 1635, collected 1635
+2006_320: reported 2364, collected 2364
+2006_330: reported 2509, collected 2509
+2006_340: reported 2357, collected 2357
+2006_350: reported 2308, collected 2308
+2006_400: reported 1451, collected 1451
+2006_410: reported 1226, collected 1226
+2006_420: reported 886, collected 886
+2006_430: reported 734, collected 734
+2006_440: reported 585, collected 585
+2006_450: reported 468, collected 468
+2006_500: reported 305, collected 305
+2006_510: reported 267, collected 267
+2006_520: reported 173, collected 173
+2006_530: reported 122, collected 122
+2006_540: reported 100, collected 100
+2006_550: reported 18, collected 18
+2006_600: reported 2, collected 2
+2006_610: reported 0, collected 0
+2006_620: reported 1, collected 1
+2006_630: reported 0, collected 0
+2006_640: reported 1, collected 1
+2006_650: reported 0, collected 0
+2006_700: reported 2, collected 2
+{'year': 2006, 'reported': 19715, 'collected': 19715}
+=== 2007
+2007_100: reported 74, collected 74
+2007_230: reported 74, collected 74
+2007_240: reported 235, collected 235
+2007_250: reported 586, collected 586
+2007_300: reported 961, collected 961
+2007_310: reported 1504, collected 1504
+2007_320: reported 2135, collected 2135
+2007_330: reported 2428, collected 2428
+2007_340: reported 2555, collected 2555
+2007_350: reported 2475, collected 2475
+2007_400: reported 1669, collected 1669
+2007_410: reported 1255, collected 1255
+2007_420: reported 1090, collected 1090
+2007_430: reported 760, collected 760
+2007_440: reported 655, collected 655
+2007_450: reported 545, collected 545
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2007_500: reported 348, collected 348
+2007_510: reported 298, collected 298
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2007_520: reported 228, collected 228
+2007_530: reported 150, collected 150
+2007_540: reported 145, collected 145
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2007_550: reported 81, collected 81
+2007_600: reported 48, collected 48
+2007_610: reported 38, collected 38
+2007_620: reported 26, collected 26
+2007_630: reported 5, collected 5
+2007_640: reported 1, collected 1
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2007_650: reported 0, collected 0
+2007_700: reported 1, collected 1
+{'year': 2007, 'reported': 20370, 'collected': 20370}
+=== 2013
+2013_100: reported 145, collected 145
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2013_230: reported 197, collected 197
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2013_240: reported 480, collected 480
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2013_250: reported 1005, collected 1005
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+2013_300: reported 1475, collected 1475
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Read timed out. (read timeout=60)); retry in 30s
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Max retries exceeded with url: /cfm_Archive/iframe_ArchiveSearch.cfm?mode=results&criteria=&StoredProcParamsOn=yes&VarRaceYearLowID=2013&VarRaceYearHighID=2013&VarAgeLowID=0&VarAgeHighID=0&VarGenderID=0&VarBibNumber=&VarLastName=&VarFirstName=&VarStateID=0&VarCountryOfResidenceID=0&VarCity=&VarZip=&VarTimeLowHr=3&VarTimeLowMin=10&VarTimeLowSec=00&VarTimeHighHr=3&VarTimeHighMin=19&VarTimeHighSec=59&VarSortOrder=ByTime&VarAddInactiveYears=0&records=25&headerexists=Yes&queryname=SearchResults&tablefields=RaceYear%2CFullBibNumber%2CFormattedSortName%2CAgeOnRaceDay%2CGenderCode%2CCity%2CStateAbbrev%2CCountryOfResAbbrev%2CReportingSegment (Caused by NameResolutionError("HTTPSConnection(host='registration.baa.org', port=443): Failed to resolve 'registration.baa.org' ([Errno 8] nodename nor servname provided, or not known)"))); retry in 60s
+  request failed (HTTPSConnectionPool(host='registration.baa.org', port=443): Max retries exceeded with url: /cfm_Archive/iframe_ArchiveSearch.cfm?mode=results&criteria=&StoredProcParamsOn=yes&VarRaceYearLowID=2013&VarRaceYearHighID=2013&VarAgeLowID=0&VarAgeHighID=0&VarGenderID=0&VarBibNumber=&VarLastName=&VarFirstName=&VarStateID=0&VarCountryOfResidenceID=0&VarCity=&VarZip=&VarTimeLowHr=3&VarTimeLowMin=10&VarTimeLowSec=00&VarTimeHighHr=3&VarTimeHighMin=19&VarTimeHighSec=59&VarSortOrder=ByTime&VarAddInactiveYears=0&records=25&headerexists=Yes&queryname=SearchResults&tablefields=RaceYear%2CFullBibNumber%2CFormattedSortName%2CAgeOnRaceDay%2CGenderCode%2CCity%2CStateAbbrev%2CCountryOfResAbbrev%2CReportingSegment (Caused by NameResolutionError("HTTPSConnection(host='registration.baa.org', port=443): Failed to resolve 'registration.baa.org' ([Errno 8] nodename nor servname provided, or not known)"))); retry in 120s
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/socket.py", line 987, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='registration.baa.org', port=443): Failed to resolve 'registration.baa.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='registration.baa.org', port=443): Max retries exceeded with url: /cfm_Archive/iframe_ArchiveSearch.cfm?mode=results&criteria=&StoredProcParamsOn=yes&VarRaceYearLowID=2013&VarRaceYearHighID=2013&VarAgeLowID=0&VarAgeHighID=0&VarGenderID=0&VarBibNumber=&VarLastName=&VarFirstName=&VarStateID=0&VarCountryOfResidenceID=0&VarCity=&VarZip=&VarTimeLowHr=3&VarTimeLowMin=10&VarTimeLowSec=00&VarTimeHighHr=3&VarTimeHighMin=19&VarTimeHighSec=59&VarSortOrder=ByTime&VarAddInactiveYears=0&records=25&headerexists=Yes&queryname=SearchResults&tablefields=RaceYear%2CFullBibNumber%2CFormattedSortName%2CAgeOnRaceDay%2CGenderCode%2CCity%2CStateAbbrev%2CCountryOfResAbbrev%2CReportingSegment (Caused by NameResolutionError("HTTPSConnection(host='registration.baa.org', port=443): Failed to resolve 'registration.baa.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 224, in <module>
+    _, check = scrape_year(boston_session, target)
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 185, in scrape_year
+    reported, runners = scrape_window_full(session, year, low, high)
+                        ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 140, in scrape_window_full
+    response = post_with_retry(session, sb.ARCHIVE_URL, params=params,
+                               data={'start': start})
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 73, in post_with_retry
+    response = session.post(url, timeout=sb.TIMEOUT, **kwargs)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='registration.baa.org', port=443): Max retries exceeded with url: /cfm_Archive/iframe_ArchiveSearch.cfm?mode=results&criteria=&StoredProcParamsOn=yes&VarRaceYearLowID=2013&VarRaceYearHighID=2013&VarAgeLowID=0&VarAgeHighID=0&VarGenderID=0&VarBibNumber=&VarLastName=&VarFirstName=&VarStateID=0&VarCountryOfResidenceID=0&VarCity=&VarZip=&VarTimeLowHr=3&VarTimeLowMin=10&VarTimeLowSec=00&VarTimeHighHr=3&VarTimeHighMin=19&VarTimeHighSec=59&VarSortOrder=ByTime&VarAddInactiveYears=0&records=25&headerexists=Yes&queryname=SearchResults&tablefields=RaceYear%2CFullBibNumber%2CFormattedSortName%2CAgeOnRaceDay%2CGenderCode%2CCity%2CStateAbbrev%2CCountryOfResAbbrev%2CReportingSegment (Caused by NameResolutionError("HTTPSConnection(host='registration.baa.org', port=443): Failed to resolve 'registration.baa.org' ([Errno 8] nodename nor servname provided, or not known)"))
+=== 2004
+Traceback (most recent call last):
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 224, in <module>
+    _, check = scrape_year(boston_session, target)
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_boston.py", line 182, in scrape_year
+    frames.append(pd.read_csv(path, dtype={sb.BIB: str}))
+                  ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/io/parsers/readers.py", line 1922, in _make_engine
+    return mapping[engine](f, **self.options)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 95, in __init__
+    self._reader = parsers.TextReader(src, **kwds)
+                   ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "pandas/_libs/parsers.pyx", line 575, in pandas._libs.parsers.TextReader.__cinit__
+pandas.errors.EmptyDataError: No columns to parse from file
+=== 2013
+2013_310: reported 1912, collected 1912
+2013_320: reported 2478, collected 2478
+2013_330: reported 2621, collected 2621
+2013_340: reported 2701, collected 2701
+2013_350: reported 2332, collected 2332
+2013_400: reported 1692, collected 1692
+2013_410: reported 403, collected 403
+2013_420: reported 186, collected 186
+2013_430: reported 26, collected 26
+2013_440: reported 13, collected 13
+2013_450: reported 0, collected 0
+2013_500: reported 0, collected 0
+2013_510: reported 0, collected 0
+2013_520: reported 1, collected 1
+2013_530: reported 2, collected 2
+2013_540: reported 1, collected 1
+2013_550: reported 0, collected 0
+2013_600: reported 0, collected 0
+2013_610: reported 0, collected 0
+2013_620: reported 0, collected 0
+2013_630: reported 0, collected 0
+2013_640: reported 0, collected 0
+2013_650: reported 0, collected 0
+2013_700: reported 0, collected 0
+{'year': 2013, 'reported': 17670, 'collected': 17670}
+done
