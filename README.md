@@ -26,6 +26,7 @@ output/
   boston/                 Boston match report, drops, error, clusters
   nyc/                    NYC match report, drops, error, clusters
 reports/                  progress reports
+nationality_bunching_results.ipynb  data samples and bunching results by nationality
 *.ipynb                   exploratory notebooks (read original_data/ directly)
 ```
 
