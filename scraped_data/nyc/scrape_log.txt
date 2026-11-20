@@ -356,3 +356,225 @@ TypeError: expected string or bytes-like object, got 'float'
 2009 4:10:00: reported 3598, collected 3553
 2009 4:20:00: reported 3794, collected 3731
 2009 4:30:00: reported 3220, collected 3182
+2009 4:40:00: reported 2922, collected 2885
+2009 4:50:00: reported 2719, collected 2682
+2009 5:00:00: reported 1796, collected 1789
+2009 5:10:00: reported 1468, collected 1456
+2009 5:20:00: reported 1162, collected 1156
+2009 5:30:00: reported 945, collected 943
+2009 5:40:00: reported 792, collected 791
+2009 5:50:00: reported 649, collected 648
+2009 6:00:00: reported 437, collected 437
+2009 6:10:00: reported 381, collected 381
+2009 6:20:00: reported 290, collected 290
+2009 6:30:00: reported 287, collected 287
+2009 6:40:00: reported 216, collected 216
+2009 6:50:00: reported 186, collected 186
+2009 7:00:00: reported 393, collected 393
+{'year': 2009, 'event_total': 43545, 'reported': 44093, 'collected': 43543}
+2010 0:00:00: reported 50, collected 50
+2010 2:30:00: reported 84, collected 84
+2010 2:40:00: reported 222, collected 222
+2010 2:50:00: reported 581, collected 581
+2010 3:00:00: reported 754, collected 754
+2010 3:10:00: reported 1314, collected 1314
+2010 3:20:00: reported 1989, collected 1989
+2010 3:30:00: reported 2481, collected 2481
+2010 3:40:00: reported 3191, collected 3191
+2010 3:50:00: reported 4108, collected 4107
+2010 4:00:00: reported 3583, collected 3583
+2010 4:10:00: reported 3670, collected 3670
+2010 4:20:00: reported 3779, collected 3777
+2010 4:30:00: reported 3277, collected 3276
+2010 4:40:00: reported 2877, collected 2877
+2010 4:50:00: reported 2686, collected 2686
+2010 5:00:00: reported 1895, collected 1895
+2010 5:10:00: reported 1722, collected 1722
+2010 5:20:00: reported 1431, collected 1431
+2010 5:30:00: reported 1070, collected 1070
+2010 5:40:00: reported 942, collected 942
+2010 5:50:00: reported 727, collected 727
+2010 6:00:00: reported 503, collected 503
+2010 6:10:00: reported 465, collected 465
+2010 6:20:00: reported 343, collected 343
+2010 6:30:00: reported 286, collected 286
+2010 6:40:00: reported 224, collected 224
+2010 6:50:00: reported 187, collected 187
+2010 7:00:00: reported 538, collected 538
+{'year': 2010, 'event_total': 44976, 'reported': 44979, 'collected': 44972}
+2011 0:00:00: reported 49, collected 49
+2011 2:30:00: reported 104, collected 104
+2011 2:40:00: reported 275, collected 275
+2011 2:50:00: reported 703, collected 703
+2011 3:00:00: reported 977, collected 977
+2011 3:10:00: reported 1335, collected 1335
+2011 3:20:00: reported 2058, collected 2058
+2011 3:30:00: reported 2599, collected 2599
+2011 3:40:00: reported 3048, collected 3048
+2011 3:50:00: reported 4208, collected 4207
+2011 4:00:00: reported 3473, collected 3473
+2011 4:10:00: reported 3696, collected 3695
+2011 4:20:00: reported 4063, collected 4062
+2011 4:30:00: reported 3204, collected 3204
+2011 4:40:00: reported 3040, collected 3040
+2011 4:50:00: reported 3029, collected 3028
+2011 5:00:00: reported 2309, collected 2309
+  request failed; retry in 30s
+2011 5:10:00: reported 1929, collected 1928
+2011 5:20:00: reported 1562, collected 1562
+2011 5:30:00: reported 1214, collected 1214
+2011 5:40:00: reported 962, collected 962
+2011 5:50:00: reported 812, collected 812
+2011 6:00:00: reported 555, collected 555
+2011 6:10:00: reported 439, collected 439
+2011 6:20:00: reported 374, collected 374
+2011 6:30:00: reported 319, collected 319
+2011 6:40:00: reported 266, collected 266
+  request failed; retry in 30s
+2011 6:50:00: reported 162, collected 162
+2011 7:00:00: reported 481, collected 481
+{'year': 2011, 'event_total': 47239, 'reported': 47245, 'collected': 47236}
+2013 0:00:00: reported 41, collected 41
+2013 2:30:00: reported 56, collected 56
+2013 2:40:00: reported 180, collected 180
+2013 2:50:00: reported 499, collected 499
+2013 3:00:00: reported 709, collected 709
+  request failed; retry in 30s
+2013 3:10:00: reported 1247, collected 1247
+2013 3:20:00: reported 2132, collected 2131
+  request failed; retry in 30s
+  request failed; retry in 60s
+  request failed; retry in 120s
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/socket.py", line 987, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 8] nodename nor servname provided, or not known
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='rmsprodapi.nyrr.org', port=443): Failed to resolve 'rmsprodapi.nyrr.org' ([Errno 8] nodename nor servname provided, or not known)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='rmsprodapi.nyrr.org', port=443): Max retries exceeded with url: /api/v2/runners/finishers-filter (Caused by NameResolutionError("HTTPSConnection(host='rmsprodapi.nyrr.org', port=443): Failed to resolve 'rmsprodapi.nyrr.org' ([Errno 8] nodename nor servname provided, or not known)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 337, in <module>
+    _, check = scrape_year(nyc_session, target)
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 285, in scrape_year
+    reported, runners = scrape_window(session, year, low, high)
+                        ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 215, in scrape_window
+    total_high, runners_high = scrape_window(session, year, mid + 1,
+                               ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+                                             high)
+                                             ^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 214, in scrape_window
+    total_low, runners_low = scrape_window(session, year, low, mid)
+                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 214, in scrape_window
+    total_low, runners_low = scrape_window(session, year, low, mid)
+                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 222, in scrape_window
+    items, _ = fetch_page(session, year, page_index, low, high)
+               ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 166, in fetch_page
+    data = post_with_retry(session, payload)
+  File "/Users/svsalin/Desktop/stier/prospect_time_clusters_marathon/scrape_nyc.py", line 125, in post_with_retry
+    response = session.post(API_URL, json=payload,
+                            timeout=sb.TIMEOUT)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 712, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/svsalin/anaconda3/lib/python3.14/site-packages/requests/adapters.py", line 729, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='rmsprodapi.nyrr.org', port=443): Max retries exceeded with url: /api/v2/runners/finishers-filter (Caused by NameResolutionError("HTTPSConnection(host='rmsprodapi.nyrr.org', port=443): Failed to resolve 'rmsprodapi.nyrr.org' ([Errno 8] nodename nor servname provided, or not known)"))
+{'year': 1999, 'event_total': 31791, 'reported': 31820, 'collected': 31791}
+{'year': 2000, 'event_total': 29371, 'reported': 29408, 'collected': 29371}
+{'year': 2001, 'event_total': 23662, 'reported': 23682, 'collected': 23662}
+{'year': 2002, 'event_total': 31838, 'reported': 31860, 'collected': 31838}
+{'year': 2003, 'event_total': 34735, 'reported': 34745, 'collected': 34734}
+{'year': 2004, 'event_total': 36565, 'reported': 36584, 'collected': 36565}
+{'year': 2005, 'event_total': 36863, 'reported': 36887, 'collected': 36863}
+{'year': 2006, 'event_total': 37880, 'reported': 38295, 'collected': 37880}
+{'year': 2007, 'event_total': 38604, 'reported': 38992, 'collected': 38604}
+{'year': 2008, 'event_total': 38099, 'reported': 38519, 'collected': 38099}
+{'year': 2009, 'event_total': 43545, 'reported': 44093, 'collected': 43543}
+{'year': 2010, 'event_total': 44976, 'reported': 44979, 'collected': 44972}
+{'year': 2011, 'event_total': 47239, 'reported': 47245, 'collected': 47236}
+2013 3:30:00: reported 2774, collected 2774
+  request failed; retry in 30s
+2013 3:40:00: reported 3449, collected 3446
+2013 3:50:00: reported 4761, collected 4761
+2013 4:00:00: reported 4081, collected 4081
+2013 4:10:00: reported 4200, collected 4200
+  request failed; retry in 30s
+2013 4:20:00: reported 4167, collected 4165
+2013 4:30:00: reported 3719, collected 3718
+2013 4:40:00: reported 3458, collected 3458
+2013 4:50:00: reported 3037, collected 3037
+2013 5:00:00: reported 2267, collected 2267
+2013 5:10:00: reported 1858, collected 1858
+2013 5:20:00: reported 1589, collected 1589
+2013 5:30:00: reported 1178, collected 1178
+2013 5:40:00: reported 1122, collected 1122
+2013 5:50:00: reported 825, collected 825
+2013 6:00:00: reported 614, collected 614
+2013 6:10:00: reported 471, collected 471
+2013 6:20:00: reported 427, collected 427
+2013 6:30:00: reported 281, collected 281
+2013 6:40:00: reported 244, collected 244
+2013 6:50:00: reported 208, collected 208
+2013 7:00:00: reported 548, collected 548
+{'year': 2013, 'event_total': 50135, 'reported': 50142, 'collected': 50133}
